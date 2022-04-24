@@ -54,7 +54,7 @@
 - [when](./when/README.md)
 - [where](./where/README.md)
 - [how](./how/README.md)
-
+- [faq](./faq/README.md)
 
 ## Why? Why Not?
 

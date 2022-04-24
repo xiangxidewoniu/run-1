@@ -39,6 +39,7 @@
 
 ## ref: 
 
+- [中国移民史](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E7%A7%BB%E6%B0%91%E5%8F%B2)
 - [中国人口流动史](https://zh.wikipedia.org/wiki/Category:%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%B5%81%E5%8A%A8%E5%8F%B2)
 - [明朝人口流动](https://zh.wikipedia.org/wiki/Category:%E6%98%8E%E6%9C%9D%E4%BA%BA%E5%8F%A3%E6%B5%81%E5%8A%A8)
 - [清朝人口流动](https://zh.wikipedia.org/wiki/Category:%E6%B8%85%E6%9C%9D%E4%BA%BA%E5%8F%A3%E6%B5%81%E5%8A%A8)

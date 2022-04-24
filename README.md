@@ -25,6 +25,37 @@
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 
 
+## 润学指南:
+
+> 润学 - 四项基本原则:
+
+- 必须坚持润学道路.
+- 必须坚持无产阶级先润.
+- 必须坚持码农先锋队的领导.
+- 必须坚持普世润学的指导思想.
+
+
+> 润学 - 三个代表:
+
+- 要始终代表中国先进社会生产力的发展要求
+- 要始终代表中国先进润学的前进方向
+- 要始终代表中国最广大润学群众的根本利益
+
+
+> 润学 - 发展观:
+
+- 以人为本
+- 全面、协调、可持续的润.
+
+> 润学 - 实践指导:
+
+- [what](./what/README.md)
+- [why](./why/README.md)
+- [when](./when/README.md)
+- [where](./where/README.md)
+- [how](./how/README.md)
+
+
 ## Why? Why Not?
 
 ### 什么样的人, 应该润?

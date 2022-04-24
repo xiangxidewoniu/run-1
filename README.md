@@ -315,3 +315,10 @@ so, 当前节点, 润出去. 一定要考虑中美对抗的风险.
 
 - 很多关于 `美/加/日/新(加坡)/澳/新(西兰)`等的移民方案, 以及成功 case ,都在 Discord 群. 
 - 暂时没有时间整理出来. 可以先加群, 爬楼翻历史.
+
+
+## 协议
+
+[![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+本作品采用[知识共享署名 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。

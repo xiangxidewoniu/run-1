@@ -1,13 +1,13 @@
 # run
 
-> 来不及了, 快上车
+> 来不及了, 快上车.
 
 
 - 润 = Run.
 - 配不上厉害国的, 只配润(Run).
 
 <h3  align="center">
-    <img width="260" align="center" alt="run" src="https://user-images.githubusercontent.com/3252130/163540627-1f9b872e-f5b0-4b1a-94b0-bdc3ac69118d.png">
+    <img width="110" align="center" alt="run" src="https://user-images.githubusercontent.com/3252130/163540627-1f9b872e-f5b0-4b1a-94b0-bdc3ac69118d.png">
 </h3>
 
 
@@ -26,26 +26,6 @@
 
 
 ## 润学指南:
-
-> 润学 - 四项基本原则:
-
-- 必须坚持润学道路.
-- 必须坚持无产阶级先润. (先润带动后润)
-- 必须坚持码农先锋队的领导.
-- 必须坚持普世润学的指导思想.
-
-
-> 润学 - 三个代表:
-
-- 要始终代表中国先进社会生产力的发展要求
-- 要始终代表中国先进润学的前进方向
-- 要始终代表中国最广大润学群众的根本利益
-
-
-> 润学 - 科学发展观:
-
-- 以人为本
-- 全面、协调、可持续的润.
 
 > 润学 - 实践指导:
 

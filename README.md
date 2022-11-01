@@ -7,8 +7,12 @@
 - 配不上厉害国的, 只配润(Run).
 
 <h3  align="center">
-    <img width="110" align="center" alt="run" src="https://user-images.githubusercontent.com/3252130/163540627-1f9b872e-f5b0-4b1a-94b0-bdc3ac69118d.png">
+    <img width="233" align="center" alt="run" src="https://user-images.githubusercontent.com/3252130/163540627-1f9b872e-f5b0-4b1a-94b0-bdc3ac69118d.png">
 </h3>
+<h3  align="center">
+    <img width="233" src="https://user-images.githubusercontent.com/3252130/199338511-4bb2f968-28f6-4127-9b49-0ec8e93bf487.png"/>
+</h3>
+
 
 
 ## 润群交流: 
